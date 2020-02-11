@@ -1,0 +1,23 @@
+{
+  "name": "modules-esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcxa/modules-esm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcxa/modules-esm/issues"
+  },
+  "homepage": "https://github.com/tomcxa/modules-esm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
